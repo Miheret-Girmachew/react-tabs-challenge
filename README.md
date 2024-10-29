@@ -67,3 +67,5 @@ Run the proxy server:
 ```bash
 node proxy-server.js
 ```
+
+![tabss](https://github.com/user-attachments/assets/1458e5df-82ce-42e5-b6e9-1a34c0d03276)
